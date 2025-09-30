@@ -1,2 +1,3 @@
 # Entrega-3-Electro-Digital-II-ITM
-Lector y Analizador de Signos Cardiacos que usa además de un ESP32, un sensor AD8232 que permite capturar el pulso cardiaco
+#MIEMBROS #Angie Marisela Garcia #Juan Felipe Arroyave #Estefany Cuervo Suarez 
+Sistema ECG con ESP32 y AD8232 que captura y procesa señales cardíacas en tiempo real. Implementa 4 filtros digitales, menú interactivo, diagnóstico automático y exportación de datos. Desarrollado en MicroPython para aplicaciones educativas en procesamiento de señales biomédicas.
